@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on any impactful project for free.
 - 📫 Reach me over my mail vigneszwar@gmail.com or https://www.linkedin.com/in/vigneshwar-ponnusamy/
+- 🧑‍💻 I proficient in Java 11, Python and MySQL.
 
 <!---
 vigneszwar/vigneszwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
